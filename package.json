@@ -1,0 +1,18 @@
+{
+  "name": "twitter-tweeter",
+  "version": "1.0.0",
+  "description": "Twitter Bot made to Tweet at specific hours.",
+  "main": "index.js",
+  "keywords": [
+    "Twitter",
+    "Bot",
+    "Tweet"
+  ],
+  "author": "Insxnsive",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.16.4"
+  }
+}
